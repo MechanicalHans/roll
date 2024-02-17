@@ -1,0 +1,17 @@
+[package]
+name = "roll"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies.fcla]
+version = "0.1.0"
+
+[dependencies.logos]
+version = "0.14.0"
+
+[dependencies.num]
+version = "0.4.1"
+features = ["rand"]
+
+[dependencies.rand]
+version = "0.8.5"
